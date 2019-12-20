@@ -5,7 +5,7 @@ package com.htkj.easybuy.entity;
  * @Author: LiuSJ
  * @date: 2019/10/18 11:58
  */
-public class Login {
+public class User {
     int id;
     String userName;
     String password;
